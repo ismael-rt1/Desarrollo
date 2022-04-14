@@ -1,0 +1,64 @@
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csprojAssemblyReference.cache
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.Form1.resources
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.Properties.Resources.resources
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.GenerateResource.cache
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.exe
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.pdb
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.exe
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.pdb
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\Mono.Security.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\Npgsql.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\Npgsql.xml
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\de\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\es\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.CopyComplete
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.exe.config
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\EPPlus.dll
+C:\Users\agonzalezm\source\repos\WinMTCFileReader\WinMTCFileReader\bin\Debug\EPPlus.xml
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.exe.config
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.exe
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.pdb
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\EPPlus.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\Mono.Security.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\Npgsql.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\EPPlus.xml
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\Npgsql.xml
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\de\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\es\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csprojAssemblyReference.cache
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.Form1.resources
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.Properties.Resources.resources
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.GenerateResource.cache
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.CopyComplete
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.exe
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.pdb
+C:\Users\agonzalezm\Documents\Servicios Externos\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.CoreCompileInputs.cache
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.exe.config
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.exe
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\WinMTCFileReader.pdb
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\EPPlus.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\Mono.Security.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\Npgsql.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\EPPlus.xml
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\Npgsql.xml
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\de\Npgsql.resources.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\es\Npgsql.resources.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\fi\Npgsql.resources.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\fr\Npgsql.resources.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\ja\Npgsql.resources.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.Form1.resources
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.Properties.Resources.resources
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.GenerateResource.cache
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.CoreCompileInputs.cache
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.csproj.CopyComplete
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.exe
+C:\Projects\BnextSpecialServices\1.0\Windows Forms\WinMTCFileReader\WinMTCFileReader\obj\Debug\WinMTCFileReader.pdb

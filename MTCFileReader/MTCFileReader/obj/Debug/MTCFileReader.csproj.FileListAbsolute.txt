@@ -1,0 +1,41 @@
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.ProjectInstaller.resources
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csproj.GenerateResource.cache
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\MTCFileReader.exe.config
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\MTCFileReader.exe
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\MTCFileReader.pdb
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\Mono.Security.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\Npgsql.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\Npgsql.xml
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\de\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\es\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csproj.CopyComplete
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.exe
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.pdb
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csprojAssemblyReference.cache
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\EPPlus.dll
+C:\Users\agonzalezm\source\repos\MTCFileReader\MTCFileReader\bin\Debug\EPPlus.xml
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\MTCFileReader.exe.config
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\MTCFileReader.exe
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\MTCFileReader.pdb
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\EPPlus.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\Mono.Security.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\Npgsql.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\EPPlus.xml
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\Npgsql.xml
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\de\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\es\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csprojAssemblyReference.cache
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.ProjectInstaller.resources
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csproj.GenerateResource.cache
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csproj.CopyComplete
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.exe
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.pdb
+C:\Users\agonzalezm\Documents\Servicios Externos\Services\MTCFileReader\MTCFileReader\obj\Debug\MTCFileReader.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+2020-09-11 14:28:28	Archivo Procesados no es un formato válido.
+2020-09-11 14:28:28	Archivo SA157 - SA157 - Detalle de pago BCONTACT  2020-09-11 TEST ABDIEL.xlsx procesando...
+2020-09-11 14:28:37	[EjecutarQuery] : ERROR: 42601: syntax error at or near "SA157"
+2020-09-11 14:28:37	Total de registros afectados : 0
+2020-09-11 14:28:38	[MoverExcelProcesado] : Error en el servidor remoto: (553) No se permite el nombre de archivo.
